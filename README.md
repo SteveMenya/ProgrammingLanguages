@@ -17,7 +17,21 @@ Javascript.
 13. Extra Strength Objects 
 14. The top ten topics not covered
 
-1. Getting your feet wet
---Variables are used to store values
---Doing Things more than once.
-- While, for, for in, forEach
+React.
+1. Basic Foundation
+2. Components & Building UI's
+3. Working with Events & Data: "props" and "state"
+4. Styling react Apps & Components
+5. Introduction into "React Hooks"
+
+Advanced Concepts.
+1. Side Effects, "Refs" & More React Hooks
+2. React's Context API & Redux
+3. Forms, HTTP Request & "Custome Hooks
+4. Routing, Deployment, NextJS & More
+
+Summaries & Refreshers
+1. JavaScript Refresher
+2. ReactJS Summary
+
+
